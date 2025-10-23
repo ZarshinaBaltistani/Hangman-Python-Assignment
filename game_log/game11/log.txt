@@ -1,0 +1,24 @@
+Log for Game {game_number} ---
+Timestamp: 2025-41-10/23/25 10:41:35
+Category: fruits
+Word: marang 
+ ***** Guesses ***** 
+Guess: o (Wrong) 
+Guess: a Correct! 
+Guess: c (Wrong) 
+Guess: l (Wrong) 
+Guess: z (Wrong) 
+Guess: d (Wrong) 
+Guess: w (Wrong) 
+===== Result ===== 
+Result: Loss 
+Score: 0 
+Worng Guesses: 6 
+
+--- Final Statistics ---
+Games Played: 2
+Wins: 0
+Losses: 1
+Total Score: 0
+Win Rate: 0.0
+Average Score Per Game: 0.0

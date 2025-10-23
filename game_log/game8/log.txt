@@ -1,0 +1,5 @@
+Log for Game {game_number} ---
+Timestamp: 2025-36-10/23/25 09:36:54
+Category: countries
+Word: kyrgyzstan 
+ ***** Guesses ***** 

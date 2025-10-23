@@ -1,0 +1,27 @@
+Log for Game {game_number} ---
+Timestamp: 2025-09-10/23/25 11:09:28
+Category: programming
+Word: format 
+ ***** Guesses ***** 
+Guess: p (Wrong) 
+Guess: a Correct! 
+Guess: b (Wrong) 
+Guess: c (Wrong) 
+Guess: b Repeated!, Try another one 
+Guess: e (Wrong) 
+Guess: t Correct! 
+Guess: e Repeated!, Try another one 
+Guess: w (Wrong) 
+Guess: u (Wrong) 
+===== Result ===== 
+Result: Loss 
+Score: 0 
+Worng Guesses: 6 
+
+--- Final Statistics ---
+Games Played: 3
+Wins: 0
+Losses: 2
+Total Score: 0
+Win Rate: 0.0
+Average Score Per Game: 0.0

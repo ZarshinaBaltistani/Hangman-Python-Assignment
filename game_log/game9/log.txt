@@ -1,0 +1,25 @@
+Log for Game {game_number} ---
+Timestamp: 2025-37-10/23/25 09:37:15
+Category: countries
+Word: haiti 
+ ***** Guesses ***** 
+Guess: a Correct! 
+Guess: p (Wrong) 
+Guess: p Repeated!, Try another one 
+Guess: e (Wrong) 
+Guess: ww (Wrong) 
+Guess: l (Wrong) 
+Guess: c (Wrong) 
+Guess: s (Wrong) 
+===== Result ===== 
+Result: Loss 
+Score: 0 
+Worng Guesses: 6 
+
+--- Final Statistics ---
+Games Played: 1
+Wins: 0
+Losses: 0
+Total Score: 0
+Win Rate: 0.0
+Average Score Per Game: 0.0

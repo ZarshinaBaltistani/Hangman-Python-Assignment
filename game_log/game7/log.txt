@@ -1,0 +1,5 @@
+Log for Game {game_number} ---
+Timestamp: 2025-34-10/23/25 09:34:23
+Category: countries
+Word: barbados 
+ ***** Guesses ***** 

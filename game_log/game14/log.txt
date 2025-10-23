@@ -1,0 +1,27 @@
+Log for Game {game_number} ---
+Timestamp: 2025-13-10/23/25 11:13:23
+Category: animals
+Word: ermine 
+ ***** Guesses ***** 
+Guess: r Correct! 
+Guess: a (Wrong) 
+Guess: b (Wrong) 
+Guess: i Correct! 
+Guess: t (Wrong) 
+Guess: o (Wrong) 
+Guess: t Repeated!, Try another one 
+Guess: n Correct! 
+Guess: c (Wrong) 
+Guess: f (Wrong) 
+===== Result ===== 
+Result: Loss 
+Score: 0 
+Worng Guesses: 6 
+
+--- Final Statistics ---
+Games Played: 4
+Wins: 0
+Losses: 3
+Total Score: 0
+Win Rate: 0.0
+Average Score Per Game: 0.0
