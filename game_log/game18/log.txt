@@ -1,0 +1,35 @@
+Log for Game {game_number} ---
+Timestamp: 2025-39-10/26/25 15:39:33
+Category: fruits
+Word: bluebead 
+ ***** Guesses ***** 
+Letter: 'v' Wrong. 
+Letter: 'a' Correct! 
+Letter: 'e' Correct! 
+Letter: 's' Wrong. 
+Letter: 'd' Correct! 
+Letter: 'o' Wrong. 
+Letter: 'c' Wrong. 
+Letter: 'p' Wrong. 
+Letter: 'q' Wrong. 
+Letter: 't' Wrong. 
+Letter: 'z' Wrong. 
+Letter: 'y' Wrong. 
+Letter: 'w' Wrong. 
+Letter: 'r' Wrong. 
+Guess: d (No new letters to check) 
+Guess: y (No new letters to check) 
+Guess: o (No new letters to check) 
+Letter: 'f' Wrong. 
+===== Result ===== 
+Result: Loss 
+Score: 0 
+Wrong Guesses: 6 
+
+--- Final Statistics ---
+Games Played: 1
+Wins: 0
+Losses: 1
+Total Score: 0
+Win Rate: 0.0
+Average Score Per Game: 0.0

@@ -1,0 +1,34 @@
+Log for Game {game_number} ---
+Timestamp: 2025-01-10/26/25 16:01:46
+Category: animals
+Word: hyena 
+ ***** Guesses ***** 
+Letter: 'h' Correct! 
+Letter: 'a' Correct! 
+Letter: 'k' Wrong. 
+Letter: 'r' Wrong. 
+Letter: 'c' Wrong. 
+Letter: 'o' Wrong. 
+Guess: oo (No new letters to check) 
+Letter: 'e' Correct! 
+Letter: 'w' Wrong. 
+Guess: w (No new letters to check) 
+Letter: 'p' Wrong. 
+Letter: 'q' Wrong. 
+Letter: 's' Wrong. 
+Letter: 'f' Wrong. 
+Letter: 'n' Correct! 
+Letter: 'b' Wrong. 
+Letter: 'm' Wrong. 
+===== Result ===== 
+Result: Loss 
+Score: 0 
+Wrong Guesses: 6 
+
+--- Final Statistics ---
+Games Played: 3
+Wins: 0
+Losses: 3
+Total Score: 0
+Win Rate: 0.0
+Average Score Per Game: 0.0

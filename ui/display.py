@@ -36,13 +36,33 @@ def game_state(progress: str, guessed_letter: set, wrong_count: int, Hangman_sta
     print("*"*40)
 
 #Get Guess from User
-def get_guess() -> str:
+def get_guess(word_length: int) -> str:
+    """
+    Prompts the user for a guess (single letter, sequence, or full word).
+    Input must be a valid string of letters.
+    """
     while True:
-        guess = input("Please guess the letter:  ").strip().lower()
-        if guess.isalpha():
-            return guess
-        else:
-            print("Invalid Input! \n Please enter a valid letter from A to Z: ")
+        try:
+            prompt_text = (
+                f"Enter your guess (1 letter, sequence, or {word_length}-letter word): "
+            )
+            guess_input = input(prompt_text).strip().lower()
+
+            if not guess_input:
+                print("Input cannot be empty. Please enter a guess.")
+                continue
+            
+            # Check if input contains only letters
+            if not guess_input.isalpha():
+                print("Invalid input. Your guess must contain only letters (a-z).")
+                continue
+
+            return guess_input
+            
+        except EOFError:
+            # Handle user interrupting the input
+            print("\nGame interrupted. Exiting.")
+            return ""
 
 #For Repeated Guess
 def repeated_guess(letter: str):

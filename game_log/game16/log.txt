@@ -1,0 +1,5 @@
+Log for Game {game_number} ---
+Timestamp: 2025-31-10/26/25 15:31:26
+Category: fruits
+Word: barberry 
+ ***** Guesses ***** 

@@ -1,0 +1,18 @@
+Log for Game {game_number} ---
+Timestamp: 2025-00-10/26/25 16:00:09
+Category: AI_tools
+Word: nexa 
+ ***** Guesses ***** 
+Full word guess: 'lesa' Incorrect! (Instant Loss) 
+===== Result ===== 
+Result: Loss 
+Score: 0 
+Wrong Guesses: 6 
+
+--- Final Statistics ---
+Games Played: 2
+Wins: 0
+Losses: 2
+Total Score: 0
+Win Rate: 0.0
+Average Score Per Game: 0.0

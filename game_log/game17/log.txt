@@ -1,0 +1,5 @@
+Log for Game {game_number} ---
+Timestamp: 2025-34-10/26/25 15:34:03
+Category: fruits
+Word: keriberry 
+ ***** Guesses ***** 
