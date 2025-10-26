@@ -138,30 +138,6 @@ def play_game(word_tob_guess: str, log_file_path: Path):
             display.show_wrong_guess(f"Sequence/Letter(s) in '{guess_input}'") 
         
         time.sleep(1)
-
-    #   #if player already guessed the letter
-    #   if guess in guessed_letters:
-    #       display.repeated_guess(guess)
-    #       # Logging
-    #       update_log(log_file_path, f"Guess: {guess} Repeated!, Try another one")
-    #       time.sleep(1)
-    #       continue
-    #   # If new guess by the user
-    #   guessed_letters.add(guess)
- 
-    #   #If guess in correct
-    #   if guess in word_tob_guess:
-    #       display.correct_guess(guess)
-    #       #New Logging
-    #       update_log(log_file_path, f"Guess: {guess} Correct!")
-    #   else:
-    #       display.show_wrong_guess(guess)
-    #       wrong_guess += 1     #Penalty
-    #       #New Logging
-    #       update_log(log_file_path, f"Guess: {guess} (Wrong)")
-    #       time.sleep(1)        
-            
-
 #Update Log file
 def update_log(log_file_path, message: str):
     try:
