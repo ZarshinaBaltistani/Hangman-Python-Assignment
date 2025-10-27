@@ -33,7 +33,8 @@ Gameplay Loop: The core game is managed by the play_game function in game/engine
 
 Progress Tracking: The build_progress_string function generates the _ _ _ _ _ display, which is updated with each correct guess. The ui/display.py file's game_state function prints this progress, along with guessed letters and remaining attempts.
 
-Letter Validation: All user input is handled by ui/display.py. The get_guess function uses .strip().lower() and .isalpha() in a while True loop to ensure only a single valid letter is accepted.
+Letter Validation: All user input is handled by ui/display.py. The get_guess function uses .strip().lower() and .isalpha() in a while True loop to ensure correct word at once or a single letter or remaining joint letters are accepted.
+
 
 Repeated Guesses: game/engine.py uses a set() called guessed_letters to store guesses. If a new guess is already in guessed_letters, the display.repeated_guess function is called, and the player is not penalized.
 
