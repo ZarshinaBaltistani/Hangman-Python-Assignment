@@ -12,20 +12,21 @@ python main.py
 ************************ Project Structure *********************************
 
 hangman_game/
-├── main.py           # Main entry point, controls game flow and play-again loop
+├── main.py           
 ├── game/
-│   ├── engine.py     # Core game logic, state management, and round scoring
-│   ├── wordlist.py   # Handles loading words from category files
-│   ├── stats.py      # Handles loading/saving of persistent JSON statistics
-│   └── ascii_art.py  # Stores the 7 ASCII art stages for the hangman
+│   ├── engine.py    
+│   ├── wordlist.py  
+│   ├── stats.py     
+│   └── ascii_art.py  
 ├── ui/
-│   └── display.py    # Handles ALL user-facing print() and input() calls
+│   └── display.py   
 ├── words/
-│   └── categories/   # (Required) Contains .txt files (e.g., animals.txt)
-├── game_log/         # (Created Automatically) Stores log files for each game
-└── stats.json        # (Created Automatically) Stores player statistics
+│   └── categories/   
+├── game_log/         
+└── stats.json        
 
 +++++++++++++++++++++ Features & Implementation Details ++++++++++++++++++++++++++
+
 The assignment requirements as follows:
 
 1. Core Gameplay & Validation 
